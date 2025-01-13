@@ -53,10 +53,13 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  justify-content: space-around;
 }
 
 .menu-bar li {
-  float: left;
+  margin: 0;
+  width: 25%;
 }
 
 .menu-bar li a {
@@ -72,6 +75,16 @@
 }
 
 body {
-  padding-top: 50px; /* Adjust this value based on the height of your menu bar */
-  padding-left: 10px;
+  padding-top: 40px; /* Adjust this value based on the height of your menu bar */
+  padding-left: 30px;
+  margin-top: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.dividing-line {
+  border: none;
+  border-top: 1px solid #111;
+  margin: -14px 0 0 0;
+  padding: 0;
+  width: 200%;
 }

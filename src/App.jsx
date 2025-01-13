@@ -18,6 +18,10 @@ function App() {
 	    <h1 id ="Heading">
 	      Hannah J. Kim
 	    </h1>
+      <h2 id ="Subheading">
+        Experience
+      </h2>
+      <hr className='dividing-line'/>
 	    <p id ="Paragraph">
 	      This is a paragraph. You can type stuff you want to see here.
 	    </p>
