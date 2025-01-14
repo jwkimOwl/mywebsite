@@ -79,6 +79,7 @@ body {
   padding-left: 30px;
   margin-top: 0;
   font-family: 'Times New Roman', Times, serif;
+  background-color: #fdf8eaaa;
 }
 
 .dividing-line {
@@ -86,5 +87,22 @@ body {
   border-top: 1px solid #111;
   margin: -14px 0 0 0;
   padding: 0;
-  width: 200%;
+  width: 100%;
+}
+
+.inline-elements {
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+  padding-top: 10px;
+  align-items: center;
+}
+
+.inline-elements h3 {
+  margin: 0;
+  margin-right: 50px;
+}
+
+.inline-elements p {
+  margin: 0;
 }
