@@ -1,0 +1,19 @@
+#root {
+    width: 100%;
+    background-color: #fdf8eaaa;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.gallery{
+    padding: 1%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.gallery img {
+    padding: 5px;
+    padding-bottom: 0;
+    width: 24%;
+    height: auto;
+    align-content: center;
+    align-items: center;
+  }
