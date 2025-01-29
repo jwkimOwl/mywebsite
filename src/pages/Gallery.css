@@ -12,6 +12,7 @@
 .gallery img {
     padding: 5px;
     padding-bottom: 0;
+    border-radius: 3%;
     width: 24%;
     height: auto;
     align-content: center;

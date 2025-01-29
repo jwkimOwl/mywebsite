@@ -72,3 +72,21 @@
   .inline-elements p {
     margin: 0;
   }
+
+  .inline-elements-unbold {
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    padding-top: 10px;
+    align-items: center;
+  }
+  
+  .inline-elements-unbold h3 {
+    margin: 0;
+    margin-right: 50px;
+    font-weight: lighter;
+  }
+  
+  .inline-elements-unbold p {
+    margin: 0;
+  }

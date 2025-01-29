@@ -39,22 +39,22 @@ function Resume() {
           <hr className='dividing-line'/>
           <div>
             <div className="inline-elements">
-              <h3>Incoming Software Engineer Intern, Echo3D</h3> <p>Part-time | June 2025 - July 2025 | Remote</p>
+              <h3>Incoming Software Engineer Intern, Echo3D</h3> <p>June 2025 - July 2025 | Remote</p>
             </div>
           </div>
           <div>
             <div className="inline-elements">
-              <h3>Private Tutor</h3> <p>Part-time | September 2023 - Present | Remote / San Jose, CA</p>
+              <h3>Private Tutor</h3> <p>September 2023 - Present | Remote / San Jose, CA</p>
             </div>
               <ul>
-                <li>Tutored middle school/high school students in-person or via zoom</li>
+                <li>Tutored middle school/high school students in-person or via zoom for 500+ hours</li>
                 <li>Math: AMC prep, AIME prep, algebra 1/2, geometry, Pre-calculus, AP Calulus AB/BC</li>
                 <li>Science: AP Physics 1/2, AP Physics C (Mechanics, Electricity and Magnetism), AP Computer Science A, Competitive Programming, Java, JavaScript, Python</li>
               </ul>
           </div>
           <div>
             <div className="inline-elements">
-              <h3>Intern, PozaLabs</h3> <p>Full-time | June 2022 - July 2022 | Seoul, South Korea</p>
+              <h3>Intern, PozaLabs</h3> <p>June 2022 - July 2022 | Seoul, South Korea</p>
             </div>
               <ul>
                 <li>Utilized data preprocessing techniques and generative AI to produce MIDI files</li>
@@ -62,12 +62,98 @@ function Resume() {
                 <li>Developed a well-rounded understanding of startup operations and industry dynamics</li>
               </ul>
           </div>
-  
           <br/>
+
+          <h2 id ="Research">
+          Research
+          </h2>
+          <hr className='dividing-line'/>
+          <div>
+            <div className="inline-elements">
+              <h3>New Heuristic Algorithm of Traveling Salesman Problem Using Distance Ratio</h3> <p>March 2021 - May 2022 | Suwon, South Korea</p>
+            </div>
+            <ul>
+              <li>Collaborated with a team of 3 to develop and implement a new heuristic algorithm for the Traveling Salesman Problem (TSP) in C++</li>
+              <li>Benchmarked the algorithm against six existing methods, achieving 3rd place in accuracy and 6th in time efficiency</li>
+            </ul>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Prediction of Minimum Braking Distance Using Genetic Algorithm</h3> <p>March 2021 - October 2021 | Suwon, South Korea</p>
+            </div>
+            <ul>
+              <li>Conducted simulations and implemented a genetic algorithm to optimize variables such as tire elasticity, vehicle center of gravity, and wheel dynamics for minimizing braking distance</li>
+              <li>Developed and validated a braking distance prediction model using Unity and NVIDIA PhysX with C#, ensuring precise replication of vehicle physics</li>
+              <li>Explored heuristic optimization techniques through genetic algorithms, achieving efficient solutions for multi-variable automotive performance problems</li>
+              <li>Funded by KOFAC(Korea Foundation for Science and Creativity, quasi-government NPO under the Ministry of Science)</li>
+            </ul>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Biomimetic Robot with Righting Reflex of Cat</h3> <p>March 2020 - December 2020 | Suwon, South Korea</p>
+            </div>
+            <ul>
+              <li>Developed a biomimetic robot prototype simulating the righting reflex of cats, utilizing Arduino, 3D printing, and DC servo motors.</li>
+              <li>Conducted tests and identified material weight constraints, providing insights for future implementations of self-righting mechanisms.</li>
+            </ul>
+          </div>
+          <br/>
+
           <h2 id ="Leadership/Activities">
           Leadership/Activities
           </h2>
           <hr className='dividing-line'/>
+          <div>
+            <div className="inline-elements">
+              <h3>JADE(Jumpstarting Aspiring Developers and Entrepreneurs) Participant, Columbia University</h3> <p>January 2025 | New York, NY</p>
+            </div>
+              <ul>
+                <li>Selected as one of the 20 students out of 100+ to participate in a week long immersive program in the U.S. tech and startup ecosystem for first-year students</li>
+                <li>Developed a personal website using Node.js, HTML/CSS, JavaScript, and Github</li>
+                <li>Networked with professionals from Google, IBM Quantum, Microsoft, and more</li>
+              </ul>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Algorithm Computer Science Club(IamCoder)</h3> <p>May 2020 - February 2023 | Suwon, South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Hacking & Cyber Security Camp by POSTECH</h3> <p>June 2022 | Remote</p>
+            </div>
+            <ul>
+                <li>Selected as one of 20 students to learn about cryptography, web vulnerablility and more, participated in collaborative CTF</li>
+            </ul>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Summer & Winter Camps of Korea Olympiad in Informatics</h3> <p>July 2021, January 2022 | Remote</p>
+            </div>
+              <ul>
+                <li>Selective competitive programming camp by Korean Institute of Information Scientists and Engineers</li>
+              </ul>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Broadcasting Club(MegaHertz) Co-founder/President</h3> <p>March 2021 - February 2023 | Suwon, South Korea</p>
+            </div>
+              <ul>
+                <li>Hosted interviews, operated cameras, and edited videos</li>
+                <li>Developed a youtube channel to introduce the school and archive events, achieving 500+ subscribers and 50k+ views</li>
+                <li><a href="https://www.youtube.com/@megahertz_gshs/featured" target="_blank">https://www.youtube.com/@megahertz_gshs/featured</a></li>
+              </ul>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Orchestra/Band Clarinet Player</h3> <p>January 2015 - February 2023 | Various Locations</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Tennis Team(TOP) Captain</h3> <p>May 2020 - February 2022 | Suwon, South Korea</p>
+            </div>
+          </div>
           <div>
             <div className="inline-elements">
               <h3>Math Puzzles Club(Puzzlist) Founder/Captain</h3> <p>March 2018 - February 2020 | Seoul, South Korea</p>
@@ -79,6 +165,7 @@ function Resume() {
             </div>
           </div>
           <br/>
+          
 
           <h2 id ="Volunteer">
             Volunteer
@@ -93,8 +180,66 @@ function Resume() {
                 <li>Utilized various instructional methods such as lectures, hands-on activities, visual aids</li>
               </ul>
           </div>
-
+          <div>
+            <div className="inline-elements">
+              <h3>Volunteer Staff, American Cancer Society Discovery Shop</h3> <p>November 2023 - May 2024 | Sunnyvale, CA</p>
+            </div>
+          </div>
           <br/>
+
+          <h2 id ="Awards">
+            Honors/Awards
+          </h2>
+          <hr className='dividing-line'/>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>National Computing Olympiad for High School Girls, 2nd place, Two Time Winner</h3> <p>Issued by Huawei Technologies Co. Ltd. | October 2021, October 2022 | South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>3rd place, School Software Development Contest</h3> <p>December 2022 | South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>Korea Olympiad in Informatics, Bronze award (Top 3% out of total 2,000+ participants)</h3> <p>Issued by Korean Institute of Information Scientists and Engineer | August 2021 | South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>1st place, School Debate Competition on Current Events</h3> <p>May 2021 | South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>Scholarship for Gifted Student in Science</h3> <p>Issued by Korea Research Institute of Standards & Science | December 2020 | South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>Asia-Pacific Conference on Giftedness, Research on Physics, Bronze award</h3> <p>Issued by Korean Society for the Gifted and Talented | August 2020 | South Korea</p>
+            </div>
+          </div>
+          <br/>
+
+          <h2 id ="Skills">
+            Skills
+          </h2>
+          <hr className='dividing-line'/>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>C, C++, Java, Python</h3> <p>Proficient</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements-unbold">
+              <h3>Android development, HTML, CSS, Javascript, Node.js, Github</h3> <p>Experienced</p>
+            </div>
+          </div>
+          <br/>
+          <br/>
+
         </div>
       </>
     )

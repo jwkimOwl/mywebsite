@@ -1,5 +1,5 @@
 import './Home.css';
-import profilePicture from '../images/IMG_1555.jpeg';
+import profilePicture from '../images/ProfilePicture.jpeg';
 function Home() {
 
     return (
@@ -8,16 +8,27 @@ function Home() {
         <div className="body">
             <div className="profile">
                 <div className="introduction">
-                <p>
-                    Hi, I’m Hannah, a computer science student at Columbia University in the City of New York.
-                    I’m passionate about leveraging technology to solve real-world problems and create positive change in society.
-                    At Columbia, I’m diving into the fascinating worlds of math, statistics, and philosophy while exploring my creative side through music and theater arts.
-                    Beyond academics, I’ve been an athlete for over six years, playing volleyball and basketball.
-                    I’m currently seeking opportunities to grow as a software engineer and hope to contribute to groundbreaking innovations in the IT and startup space.
-                    In the long term, I aspire to launch my own tech company and make a meaningful impact through entrepreneurship.
-                    When I’m not coding or studying, you’ll likely find me tutoring students in STEM, enjoying great food in NYC (Sylvia’s is next on my list!), or brainstorming ideas that blend technology with adventure.
-                    Let’s connect and build something amazing together!
-                </p>
+                    <p>
+                    Hi, I’m Hannah Kim, a computer science enthusiast with a passion for innovation, creativity,
+                    and exploring the limitless possibilities of technology. Currently studying at Columbia University,
+                    I’m driven by a desire to create meaningful solutions that bridge the gap between human potential
+                    and technological advancement.
+                    </p>
+                    <p>
+                    I’m fascinated by the intersection of math, statistics, and computer science and
+                    how they can be harnessed to tackle real-world challenges.
+                    At the same time, I find joy in exploring the arts, whether it’s through
+                    music, theater, or discovering the vibrant culinary scene of New York City.
+                    </p>
+                    <p>
+                    For me, every challenge is an opportunity to grow, explore, and innovate.
+                    Whether it’s diving into a complex coding problem,
+                    brainstorming startup ideas, or mentoring students in STEM,
+                    I believe in embracing curiosity and pushing my boundaries to unlock new possibilities.
+                    </p>
+                    <p>
+                    Let’s connect—I’d love to collaborate, learn, and dream together!
+                    </p>
                 </div>
                 <img src={profilePicture} alt="Hannah Kim" />
           </div>
