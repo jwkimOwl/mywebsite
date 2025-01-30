@@ -117,13 +117,16 @@ function Resume() {
             <div className="inline-elements">
               <h3>Algorithm Computer Science Club(IamCoder)</h3> <p>May 2020 - February 2023 | Suwon, South Korea</p>
             </div>
+            <ul>
+              <li>Prestigious competitive programming club that only selects 10 students/year</li>
+            </ul>
           </div>
           <div>
             <div className="inline-elements">
               <h3>Hacking & Cyber Security Camp by POSTECH</h3> <p>June 2022 | Remote</p>
             </div>
             <ul>
-                <li>Selected as one of 20 students to learn about cryptography, web vulnerablility and more, participated in collaborative CTF</li>
+                <li>Selected as one of 20 students to learn about cryptography, web vulnerability and more, participated in collaborative CTF</li>
             </ul>
           </div>
           <div>
@@ -151,17 +154,22 @@ function Resume() {
           </div>
           <div>
             <div className="inline-elements">
-              <h3>Tennis Team(TOP) Captain</h3> <p>May 2020 - February 2022 | Suwon, South Korea</p>
+              <h3>Elected Class Representitive</h3> <p>March 2020, March 2021 | Suwon, South Korea</p>
             </div>
           </div>
           <div>
             <div className="inline-elements">
-              <h3>Math Puzzles Club(Puzzlist) Founder/Captain</h3> <p>March 2018 - February 2020 | Seoul, South Korea</p>
+              <h3>Tennis Team(TOP), Captain</h3> <p>May 2020 - February 2022 | Suwon, South Korea</p>
             </div>
           </div>
           <div>
             <div className="inline-elements">
-              <h3>Volleyball Team Captain</h3> <p>March 2017 - February 2020 | Seoul, South Korea</p>
+              <h3>Math Puzzles Club(Puzzlist), Founder/Captain</h3> <p>March 2018 - February 2020 | Seoul, South Korea</p>
+            </div>
+          </div>
+          <div>
+            <div className="inline-elements">
+              <h3>Volleyball Team, Captain</h3> <p>September 2015 - February 2020 | Various Locations</p>
             </div>
           </div>
           <br/>
@@ -198,7 +206,7 @@ function Resume() {
           </div>
           <div>
             <div className="inline-elements-unbold">
-              <h3>3rd place, School Software Development Contest</h3> <p>December 2022 | South Korea</p>
+              <h3>3rd place, School Software Development Contest</h3> <p>Issued by Gyeonggi Science High School for the Gifted | December 2022 | South Korea</p>
             </div>
           </div>
           <div>
@@ -208,7 +216,7 @@ function Resume() {
           </div>
           <div>
             <div className="inline-elements-unbold">
-              <h3>1st place, School Debate Competition on Current Events</h3> <p>May 2021 | South Korea</p>
+              <h3>1st place, School Debate Competition on Current Events</h3> <p>Issued by Gyeonggi Science High School for the Gifted | May 2021 | South Korea</p>
             </div>
           </div>
           <div>
