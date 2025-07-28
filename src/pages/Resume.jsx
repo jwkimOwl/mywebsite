@@ -38,7 +38,7 @@ function Resume() {
         </h2>
         <hr className='dividing-line' />
         <div className='experience-block'>
-          <h3>Software Engineer Intern, Echo3D</h3>
+          <h3>Echo3D</h3>
           <div className="inline-elements">
             <p><em>Software Engineer Intern</em></p><p>June 2025 - Present | Remote</p>
           </div>
@@ -121,6 +121,24 @@ function Resume() {
           Leadership/Activities
         </h2>
         <hr className='dividing-line' />
+        <div className='experience-block'>
+          <h3>Columbia ADI(Application Development Initiative)</h3>
+          <div className="inline-elements">
+            <p><em>Web Developer</em></p> <p>Feburary 2025 - Present | New York, NY</p>
+          </div>
+          <ul>
+            <li>Developed the website for DevFest, the annual hackathon held by ADI</li>
+          </ul>
+        </div>
+        <div className='experience-block'>
+          <h3>Columbia Girls Who Code</h3>
+          <div className="inline-elements">
+            <p><em>Web Developer</em></p> <p>Feburary 2025 - Present | New York, NY</p>
+          </div>
+          <ul>
+            <li>Developed the website for Columbia Girls Who Code</li>
+          </ul>
+        </div>
         <div className='experience-block'>
           <div className="inline-elements">
             <h3>CUPAL(Columbia University Performing Arts League) Productions</h3> <p>October 2024 - Present | New York, NY</p>
