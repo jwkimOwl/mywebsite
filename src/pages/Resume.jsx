@@ -260,6 +260,16 @@ function Resume() {
         <hr className='dividing-line' />
         <div>
           <div className="inline-elements-unbold">
+            <h3>Dean's List</h3> <p>Issued by Columbia School of Engieering and Applied Sciences | 2024 Fall, 2025 Spring | New York, NY</p>
+          </div>
+        </div>
+        <div>
+          <div className="inline-elements-unbold">
+            <h3>Best Sound Design, 2025 LionJam</h3> <p>Issued by Columbia E-sports Club | Febuary, 2025 | New York, NY</p>
+          </div>
+        </div>
+        <div>
+          <div className="inline-elements-unbold">
             <h3>National Computing Olympiad for High School Girls, 2nd place, Two Time Winner</h3> <p>Issued by Huawei Technologies Co. Ltd. | October 2021, October 2022 | South Korea</p>
           </div>
         </div>
