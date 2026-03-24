@@ -16,7 +16,7 @@ function Resume() {
                         <h3>Columbia University</h3> <p>B.S. in Computer Science, Minor in Applied Math and Operations Research | September 2024 - May 2028 (Expected) | New York, NY</p>
                     </div>
                     <ul>
-                        <li>Courses taken: Data Structures in Java, Introduction to Computing for Engineers and Applied Scientists, Linear Algebra, Advanced Programming</li>
+                        <li>Courses taken: Data Structures in Java, Discrete Mathematics, Artificial Intelligence, Advanced Programming in C, Probability Theory, Analysis and Optimization</li>
                         <li>GPA: 4.11/4.0</li>
                     </ul>
                 </div>
@@ -38,16 +38,7 @@ function Resume() {
                 </h2>
                 <hr className='dividing-line' />
                 <div className='experience-block'>
-                    <h3>Hudson River Trading</h3>
-                    <div className="inline-elements">
-                        <p><em>Winter Intern</em></p> <p>January 2026 (Expected) | New York, NY</p>
-                    </div>
-                    <ul>
-                        <li>Incoming winter intern for Women in Trading and Technology internship program</li>
-                    </ul>
-                </div>
-                <div className='experience-block'>
-                    <h3>Bloomberg</h3>
+                    <h3>Bloomberg LP</h3>
                     <div className="inline-elements">
                         <p><em>Software Engineering Intern</em></p> <p>June 2026 - August 2026 (Expected) | New York, NY</p>
                     </div>
@@ -74,19 +65,20 @@ function Resume() {
                     </ul>
                 </div>
                 <div className='experience-block'>
+                    <h3>Hudson River Trading</h3>
                     <div className="inline-elements">
-                        <h3>Private Tutor</h3> <p>September 2023 - Present | Remote / San Jose, CA</p>
+                        <p><em>Winter Intern (Women in Trading and Technology)</em></p> <p>January 2026 | New York, NY</p>
                     </div>
                     <ul>
-                        <li>Tutored middle school/high school students in-person or via zoom for 500+ hours</li>
-                        <li>Math: AMC prep, AIME prep, algebra 1/2, geometry, Pre-calculus, AP Calulus AB/BC</li>
-                        <li>Science: AP Physics 1/2, AP Physics C (Mechanics, Electricity and Magnetism), AP Computer Science A, Competitive Programming, Java, JavaScript, Python</li>
+                        <li>Implemented low-level system functions and a trade book simulator in C++, leveraging Linux environments and debugging with gdb to ensure correctness and performance</li>
+                        <li>Analyzed real market data in Jupyter Notebook to develop and refine trading signals, applying linear regression to optimize parameters</li>
+                        <li>Iterated on and backtested quantitative strategies by integrating C++ signal logic with performance evaluation, improving robustness and efficiency</li>
                     </ul>
                 </div>
                 <div className='experience-block'>
                     <h3>Echo3D</h3>
                     <div className="inline-elements">
-                        <p><em>Software Engineer Intern</em></p><p>June 2025 - August 2025 | Remote</p>
+                        <p><em>Software Engineer Intern</em></p> <p>June 2025 - August 2025 | Remote</p>
                     </div>
                     <ul>
                         <li>Developed and maintained front-end features using Angular, enhancing user experience and interface responsiveness across the echo3D console</li>
@@ -104,6 +96,18 @@ function Resume() {
                         <li>Utilized data preprocessing techniques and generative AI to produce MIDI files</li>
                         <li>Managed the company’s tech blog to highlight innovations</li>
                         <li>Developed a well-rounded understanding of startup operations and industry dynamics</li>
+                    </ul>
+                </div>
+
+
+                <div className='experience-block'>
+                    <div className="inline-elements">
+                        <h3>Private Tutor</h3> <p>September 2023 - Present | Remote / San Jose, CA</p>
+                    </div>
+                    <ul>
+                        <li>Tutored middle school/high school students in-person or via zoom for 500+ hours</li>
+                        <li>Math: AMC prep, AIME prep, algebra 1/2, geometry, Pre-calculus, AP Calulus AB/BC</li>
+                        <li>Science: AP Physics 1/2, AP Physics C (Mechanics, Electricity and Magnetism), AP Computer Science A, Competitive Programming, Java, JavaScript, Python</li>
                     </ul>
                 </div>
                 <br />
@@ -171,7 +175,7 @@ function Resume() {
                         <li>Instructed web development using HTML, CSS, Javascript to high school students</li>
                     </ul>
                     <div className="inline-elements">
-                        <p><em>Web Developer</em></p> <p>Feburary 2025 - Present | New York, NY</p>
+                        <p><em>Web Developer</em></p> <p>Feburary 2025 - December 2025 | New York, NY</p>
                     </div>
                     <ul>
                         <li>Developed the website for Columbia Girls Who Code</li>
@@ -298,7 +302,12 @@ function Resume() {
                 <hr className='dividing-line' />
                 <div>
                     <div className="inline-elements-unbold">
-                        <h3>Dean's List</h3> <p>Issued by Columbia School of Engieering and Applied Sciences | 2024 Fall, 2025 Spring | New York, NY</p>
+                        <h3>Dean's List</h3> <p>Issued by Columbia School of Engieering and Applied Sciences | 2024 Fall, 2025 Spring, 2025 Fall | New York, NY</p>
+                    </div>
+                </div>
+                <div>
+                    <div className="inline-elements-unbold">
+                        <h3>Individual Round Honorable Mention (Top 20%, Division B), 1st Annual Intercollegiate Mathematics Tournament</h3> <p>Issued by Intercollegiate Mathematics Tournament Team | Febuary, 2026 | New York, NY</p>
                     </div>
                 </div>
                 <div>
@@ -344,12 +353,12 @@ function Resume() {
                 <hr className='dividing-line' />
                 <div>
                     <div className="inline-elements-unbold">
-                        <h3>C, C++, Java, Python</h3> <p>Proficient</p>
+                        <h3>C, C++, Java, Python, Github</h3> <p>Proficient</p>
                     </div>
                 </div>
                 <div>
                     <div className="inline-elements-unbold">
-                        <h3>Android development, HTML, CSS, Javascript, Node.js, Github</h3> <p>Experienced</p>
+                        <h3>Android development, HTML, CSS, Javascript, Node.js, Linux</h3> <p>Experienced</p>
                     </div>
                 </div>
                 <br />
